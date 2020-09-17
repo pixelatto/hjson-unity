@@ -1,10 +1,7 @@
-# hjson-cs
+# hjson-unity
 
-[![Build Status](https://img.shields.io/travis/hjson/hjson-cs.svg?style=flat-square)](http://travis-ci.org/hjson/hjson-cs)
-[![nuget version](https://img.shields.io/nuget/v/Hjson.svg?style=flat-square)](https://www.nuget.org/packages/Hjson/)
-[![License](https://img.shields.io/github/license/hjson/hjson-cs.svg?style=flat-square)](https://github.com/hjson/hjson-cs/blob/master/LICENSE)
-
-[Hjson](http://hjson.org), a user interface for JSON
+A fork of [hjson-cs](http://hjson.org) to be used as a Unity package.
+HJSON is a human-friendly user interface for JSON.
 
 ![Hjson Intro](http://hjson.org/hjson1.gif)
 

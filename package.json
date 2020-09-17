@@ -1,0 +1,16 @@
+{
+  "name": "com.pixelatto.hjson-unity",
+  "displayName": "Hjson for Unity",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "HJSON converter for unity, based on hjson-cs.",
+  "type": "library",
+  "keywords": [
+    "framework"
+  ],
+  "category": "Unity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelatto/hjson-unity.git"
+  }
+}
